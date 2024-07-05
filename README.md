@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new proyects about frontend
 - 📫 How to reach me lpierre.dev@gmail.com
 - 😄 Pronouns: Lepierre
-- ⚡ Fun fact: coding
+- ⚡ Fun fact: coding and learning new skills
 
 <!---
 PierreLogs/PierreLogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

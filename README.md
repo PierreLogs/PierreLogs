@@ -5,7 +5,7 @@ Desarrollador Full Stack enfocado en el ecosistema Java y React. Con experiencia
 ## 🛠️ Tecnologías
 - **Backend:** Java (Spring Boot), Python, SQL Server.
 - **Frontend:** React, TailwindCSS, JavaScript (ES6+).
-- **Herramientas:** Git, Scrum, Figma.
+- **Herramientas:** Git, Scrum, Figma, WordPress.
 
 ## 🚀 Proyectos Destacados
 - **Conversor de Monedas:** Integración de APIs Rest en tiempo real.

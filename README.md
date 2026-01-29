@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @PierreLogs
-- 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Front End and Back End Development
-- 💞️ I’m looking to collaborate on new proyects about Front End and Back End 
-- 📫 How to reach me lpierre.dev@gmail.com
-- 😄 Pronouns: Lepierre
-- ⚡ Fun fact: coding and learning new skills
+# ¡Hola! Soy Luis Pierre Oscco 👋
 
-<!---
-PierreLogs/PierreLogs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desarrollador Full Stack enfocado en el ecosistema Java y React. Con experiencia en soporte técnico.
+
+## 🛠️ Tecnologías
+- **Backend:** Java (Spring Boot), Python, SQL Server.
+- **Frontend:** React, TailwindCSS, JavaScript (ES6+).
+- **Herramientas:** Git, Scrum, Linux, Cisco Networking.
+
+## 🚀 Proyectos Destacados
+- **Sistema de Tickets de Soporte:** Gestión integral de incidencias en Java.
+- **Conversor de Monedas:** Integración de APIs Rest en tiempo real.
+- **Sistema de Ventas:** Lógica de negocio con persistencia en SQL.
+
+📫 Cómo contactarme: [Ipierre.dev@gmail.com]

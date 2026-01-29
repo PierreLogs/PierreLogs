@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PierreLogs
 - 👀 I’m interested in Full Stack Development 
-- 🌱 I’m currently learning Back End Development
+- 🌱 I’m currently learning Front End and Back End Development
 - 💞️ I’m looking to collaborate on new proyects about Front End and Back End 
 - 📫 How to reach me lpierre.dev@gmail.com
 - 😄 Pronouns: Lepierre

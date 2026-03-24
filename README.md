@@ -1,46 +1,50 @@
 # Hola, soy Luis Pierre Oscco Lara 👋
 
-### Backend Developer (Java & .NET) | Infrastructure Junior
+### FullStack Developer (React,Java & .NET) | Infrastructure Junior
 **Lima, Perú** 🇵🇪
 
-Desarrollador enfocado en soluciones backend robustas con **Java (Spring Boot)** y el ecosistema **.NET (C#)**. Cuento con una base técnica sólida en administración de sistemas **Linux** y redes. Mi enfoque integra la automatización avanzada de flujos con **Make**, el testeo riguroso de APIs y la gestión de infraestructura mediante **Docker**, asegurando entornos escalables y eficientes.
+Desarrollador orientado al backend con dominio en los ecosistemas **Java (Spring Boot)** y **.NET (C#)**. Combino mi formación académica en **Cibertec** y la especialización en **Alura Latam** con una sólida base en infraestructura, administración de sistemas **Linux** y redes. Conocimientos en automatización de leads con **Make**, testeo de APIs con **Postman/Insomnia** y gestión de bases de datos relacionales.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-*   **Backend:** Java (Spring Boot, JPA, Hibernate), C# (.NET, POO), PHP (Laravel).
+*   **Backend:** Java (Spring Boot, JPA, Hibernate), C# (.NET Core, POO), React, PHP (Laravel).
 *   **API Testing & Tools:** Postman (Automated Testing), Insomnia, Swagger, Visual Studio Community.
-*   **Automatización:** Make (Integromat), Webhooks, GitHub Actions.
-*   **Bases de Datos:** SQL Server, PostgreSQL, MySQL, Oracle.
-*   **Infraestructura:** Docker, Administración Linux (Arch/Ubuntu), VMware, Redes LAN (Cisco).
+*   **Bases de Datos:** SQL Server (Consultas complejas y gestión), PostgreSQL, MySQL, Oracle.
+*   **Automatización & DevOps:** Make (Integromat), Webhooks, Docker, Git/GitHub.
+*   **Infraestructura:** Administración Linux (Arch/Ubuntu), Redes LAN (Cisco Certified), VMware.
 
 ---
 
-### 🚀 Proyectos & Automatización
+### 🚀 Formación y Proyectos Clave
 
-*   **[Urbifax Automation Lab](https://github.com)**: Ecosistema de automatización con **Make** para sincronización de datos en tiempo real, optimizando procesos operativos en un 40%.
-*   **[ForoHub API](https://github.com)**: API RESTful desarrollada en Java, testeada integralmente con **Postman** e **Insomnia** para asegurar la integridad de la lógica de negocio.
-*   **[.NET Solutions]**: Implementación de arquitecturas limpias y POO utilizando **Visual Studio Community** y persistencia en **SQL Server**. (En Curso)
-*   **[LiterAlura](https://github.com)**: Catálogo bibliográfico con procesamiento de JSON complejo y persistencia en PostgreSQL.
+*   **Especialización Backend (Alura Latam):** Desarrollo de microservicios y APIs robustas como **ForoHub** (Spring Boot) y **LiterAlura** (procesamiento de JSON complejo).
+*   **Formación Técnica (Cibertec):** Aplicación de principios de **POO en Java y C#, creación de componentes con React**, algoritmos y estructuras de datos para soluciones escalables.
+*   **Urbifax Automation Lab:** Diseño de ecosistemas de automatización con **Make** y Webhooks, optimizando procesos en un 40%.
 
 ---
 
 ### 📈 Experiencia Profesional Relevante
 
-*   **Soporte Técnico e Infraestructura** | Serv. de Archivos Físicos y Digitales (2025 – 2026)
-    *   Administración de servidores locales y optimización de reportes mediante herramientas en Java.
-*   **Junior Frontend Developer** | Juarex Technology Group (2025)
-    *   Desarrollo de componentes dinámicos en React y consumo de APIs.
+#### **Soporte Técnico e Infraestructura** | Servicio de Archivos Físicos y Digitales (2025 – 2026)
+*   **Gestión de Datos:** Administración de permisos y segmentación de carpetas en servidores locales.
+*   **SQL Server:** Ejecución de **consultas de base de datos**, desarrollo scripts como herramientas en la configuración de sistemas windows y reportes técnicos, reduciendo tiempos de registro manual.
+*   **Redes y Conectividad:** Configuración de redes LAN y sistemas de videovigilancia IP bajo estándares de seguridad.
 
+#### **Junior Frontend Developer** | Juarex Technology Group (2025)
+*   Migración de sitios a componentes dinámicos en React e integración de APIs.
+
+#### **Trainee Frontend Developer** | Grupo ConsigueVentas (2025)
+* Desarrollo y personalización de estructuras en páginas basadas en requerimientos específicos de clientes, cumpliendo con estándares de rendimiento web.
 ---
 
 ### 🎓 Educación & Certificaciones
 
 *   **Computación e Informática** | Cibertec (2025 - Actualidad).
-*   **Backend Developer (Especialización)** | Alura Latam (2025 - 2026).
-*   **Cisco Networking Academy:** IT Essentials, Linux Essentials e Introducción a Ciberseguridad. | (2020)
-*   **Inglés Técnico para TI:** Nivel Intermedio. (En curso)
+*   **Backend Developer** | Alura Latam (2025 - 2026).
+*   **Cisco Networking Academy:** IT Essentials, Linux Essentials e Introducción a la Ciberseguridad. | (2020)
+*   **Inglés Técnico para TI:** Nivel Intermedio (Certificación Cisco en curso). (2026 - En curso)
 
 ---
 
@@ -50,5 +54,4 @@ Desarrollador enfocado en soluciones backend robustas con **Java (Spring Boot)**
 *   **GitHub:** [PierreLogs](https://github.com/PierreLogs)
 
 ---
-*Certificado por Cisco en redes y ciberseguridad, enfocado en el ciclo de vida del software con seguridad lógica y eficiencia operativa.*
-
+*Comprometido con la eficiencia operativa y la seguridad lógica en el ciclo de vida del desarrollo de software.*

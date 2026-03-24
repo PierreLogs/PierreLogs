@@ -21,7 +21,7 @@ Desarrollador enfocado en soluciones backend robustas con **Java (Spring Boot)**
 
 *   **[Urbifax Automation Lab](https://github.com)**: Ecosistema de automatización con **Make** para sincronización de datos en tiempo real, optimizando procesos operativos en un 40%.
 *   **[ForoHub API](https://github.com)**: API RESTful desarrollada en Java, testeada integralmente con **Postman** e **Insomnia** para asegurar la integridad de la lógica de negocio.
-*   **[.NET Solutions]**: Implementación de arquitecturas limpias y POO utilizando **Visual Studio Community** y persistencia en **SQL Server**.
+*   **[.NET Solutions]**: Implementación de arquitecturas limpias y POO utilizando **Visual Studio Community** y persistencia en **SQL Server**. (En Curso)
 *   **[LiterAlura](https://github.com)**: Catálogo bibliográfico con procesamiento de JSON complejo y persistencia en PostgreSQL.
 
 ---
@@ -47,7 +47,7 @@ Desarrollador enfocado en soluciones backend robustas con **Java (Spring Boot)**
 ### 📫 Conéctate conmigo
 *   **LinkedIn:** [Luis-pierre-oscco-lara](https://www.linkedin.com)
 *   **Email:** lpierre.dev@gmail.com
-*   **GitHub:** [PierreLogs](https://github.com)
+*   **GitHub:** [PierreLogs](https://github.com/PierreLogs)
 
 ---
 *Certificado por Cisco en redes y ciberseguridad, enfocado en el ciclo de vida del software con seguridad lógica y eficiencia operativa.*

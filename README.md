@@ -3,7 +3,7 @@
 ### FullStack Developer (React,Java & .NET) | Infrastructure Junior
 **Lima, Perú** 🇵🇪
 
-Desarrollador orientado al backend con dominio en los ecosistemas **Java (Spring Boot)** y **.NET (C#)**. Combino mi formación académica en **Cibertec** y la especialización en **Alura Latam** con una sólida base en infraestructura, administración de sistemas **Linux** y redes. Conocimientos en automatización de leads con **Make**, testeo de APIs con **Postman/Insomnia** y gestión de bases de datos relacionales.
+Desarrollador orientado al fullstack con conocimientos en los ecosistemas **React, Java (Spring Boot)** y **.NET (C#)**. Combino mi formación académica en **Cibertec** y la especialización en **Alura Latam** con una sólida base en infraestructura, administración de sistemas **Linux** y redes. Conocimientos en automatización de leads con **Make**, testeo de APIs con **Postman/Insomnia** y gestión de bases de datos relacionales.
 
 ---
 

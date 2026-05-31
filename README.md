@@ -72,11 +72,4 @@ Desarrollador fullstack con formación en **Cibertec** y **Alura Latam**. Combin
 
 ---
 
-## GitHub Stats
-
-![PierreLogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreLogs&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreLogs&layout=compact)
-
----
-
 *Comprometido con la eficiencia operativa y la seguridad lógica en el ciclo de vida del desarrollo de software.*

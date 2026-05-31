@@ -1,57 +1,82 @@
-# Hola, soy Luis Pierre Oscco Lara 👋
+# ¡Hola! Soy Luis Pierre Oscco Lara 👋
 
-### FullStack Developer (React,Java & .NET) | Infrastructure Junior
-**Lima, Perú** 🇵🇪
+**FullStack Developer (React, Java & .NET) | Infrastructure Junior**
+📍 Lima, Perú
 
-Desarrollador orientado al fullstack con conocimientos en los ecosistemas **React, Java (Spring Boot)** y **.NET (C#)**. Combino mi formación académica en **Cibertec** y la especialización en **Alura Latam** con una sólida base en infraestructura, administración de sistemas **Linux** y redes. Conocimientos en automatización de leads con **Make**, testeo de APIs con **Postman/Insomnia** y gestión de bases de datos relacionales.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
-
-### 🛠️ Stack Tecnológico
-
-*   **Backend:** Java (Spring Boot, JPA, Hibernate), C# (.NET Core, POO), React, PHP (Laravel).
-*   **API Testing & Tools:** Postman (Automated Testing), Insomnia, Swagger, Visual Studio Community.
-*   **Bases de Datos:** SQL Server (Consultas complejas y gestión), PostgreSQL, MySQL, Oracle.
-*   **Automatización & DevOps:** Make (Integromat), Webhooks, Docker, Git/GitHub.
-*   **Infraestructura:** Administración Linux (Arch/Ubuntu), Redes LAN (Cisco Certified), VMware.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-pierre-oscco-lara)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lpierre.dev@gmail.com)
 
 ---
 
-### 🚀 Formación y Proyectos Clave
+## Sobre mí
 
-*   **Especialización Backend (Alura Latam):** Desarrollo de microservicios y APIs robustas como **ForoHub** (Spring Boot) y **LiterAlura** (procesamiento de JSON complejo).
-*   **Formación Técnica (Cibertec):** Aplicación de principios de **POO en Java y C#, creación de componentes con React**, algoritmos y estructuras de datos para soluciones escalables.
-*   **Urbifax Automation Lab:** Diseño de ecosistemas de automatización con **Make** y Webhooks, optimizando procesos en un 40%.
+Desarrollador fullstack con formación en **Cibertec** y **Alura Latam**. Combino desarrollo de software con base en infraestructura Linux, redes y automatización. Apasionado por crear APIs robustas, componentes dinámicos y soluciones eficientes.
 
 ---
 
-### 📈 Experiencia Profesional Relevante
+## Proyectos destacados
 
-#### **Soporte Técnico e Infraestructura** | Servicio de Archivos Físicos y Digitales (2025 – 2026)
-*   **Gestión de Datos:** Administración de permisos y segmentación de carpetas en servidores locales.
-*   **SQL Server:** Ejecución de **consultas de base de datos**, desarrollo scripts como herramientas en la configuración de sistemas windows y reportes técnicos, reduciendo tiempos de registro manual.
-*   **Redes y Conectividad:** Configuración de redes LAN y sistemas de videovigilancia IP bajo estándares de seguridad.
-
-#### **Junior Frontend Developer** | Juarex Technology Group (2025)
-*   Migración de sitios a componentes dinámicos en React e integración de APIs.
-
-#### **Trainee Frontend Developer** | Grupo ConsigueVentas (2025)
-* Desarrollo y personalización de estructuras en páginas basadas en requerimientos específicos de clientes, cumpliendo con estándares de rendimiento web.
----
-
-### 🎓 Educación & Certificaciones
-
-*   **Computación e Informática** | Cibertec (2025 - Actualidad).
-*   **Backend Developer** | Alura Latam (2025 - 2026).
-*   **Cisco Networking Academy:** IT Essentials, Linux Essentials e Introducción a la Ciberseguridad. | (2020)
-*   **Inglés Técnico para TI:** Nivel Intermedio (Certificación Cisco en curso). (2026 - En curso)
+| Proyecto | Stack | Descripción |
+|----------|-------|-------------|
+| [**ForoHub**](https://github.com/PierreLogs/forohub) | Java, Spring Boot, JWT, MySQL | API REST para foro de discusión con autenticación y documentación Swagger |
+| [**LiterAlura**](https://github.com/PierreLogs/LiterAlura_Challenge) | Java, Spring Boot, PostgreSQL | Catálogo de libros que consume API Gutendex con estadísticas y consultas |
+| [**ConversorDivisas**](https://github.com/PierreLogs/ConversorDivisas) | Java, Gson, ExchangeRate-API | Conversor de monedas en consola con historial JSON |
+| [**Amigo Secreto**](https://github.com/PierreLogs/AmigoSecreto) | HTML, CSS, JavaScript | App web para sorteo de amigo secreto con diseño responsive |
+| [**Portfolio**](https://github.com/PierreLogs/personalPortfolio) | HTML, CSS, JavaScript | Portfolio personal con modo oscuro/claro |
+| [**Encriptador**](https://github.com/PierreLogs/TextEncryptChallenge) | HTML, CSS, JavaScript | Encriptador/desencriptador de texto con cifrado por sustitución |
 
 ---
 
-### 📫 Conéctate conmigo
-*   **LinkedIn:** [Luis-pierre-oscco-lara](https://www.linkedin.com)
-*   **Email:** lpierre.dev@gmail.com
-*   **GitHub:** [PierreLogs](https://github.com/PierreLogs)
+## Stack tecnológico
+
+| Área | Tecnologías |
+|------|-------------|
+| **Backend** | Java (Spring Boot, JPA, Hibernate), C# (.NET Core), PHP (Laravel) |
+| **Frontend** | React, HTML5, CSS3, JavaScript (Vanilla) |
+| **API & Testing** | Postman, Insomnia, Swagger |
+| **Bases de datos** | SQL Server, PostgreSQL, MySQL, Oracle |
+| **DevOps** | Docker, GitHub Actions, Git |
+| **Infraestructura** | Linux (Arch/Ubuntu), Redes LAN (Cisco), VMware |
+| **Automatización** | Make (Integromat), Webhooks |
 
 ---
+
+## Experiencia
+
+**Soporte Técnico e Infraestructura** · Servicio de Archivos Físicos y Digitales *(2025 – 2026)*
+- Administración de permisos y segmentación en servidores locales
+- Consultas SQL Server para reportes técnicos
+- Configuración de redes LAN y videovigilancia IP
+
+**Junior Frontend Developer** · Juarex Technology Group *(2025)*
+- Migración de sitios a componentes dinámicos en React con integración de APIs
+
+**Trainee Frontend Developer** · Grupo ConsigueVentas *(2025)*
+- Desarrollo y personalización de estructuras web según requerimientos de clientes
+
+---
+
+## Educación
+
+- **Computación e Informática** — Cibertec *(2025 – Actualidad)*
+- **Backend Developer** — Alura Latam *(2025 – 2026)*
+- **Cisco Networking Academy** — IT Essentials, Linux Essentials, Ciberseguridad *(2020)*
+- **Inglés Técnico para TI** — Nivel Intermedio *(2026 – En curso)*
+
+---
+
+## GitHub Stats
+
+![PierreLogs's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreLogs&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreLogs&layout=compact)
+
+---
+
 *Comprometido con la eficiencia operativa y la seguridad lógica en el ciclo de vida del desarrollo de software.*
